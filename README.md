@@ -5,7 +5,8 @@
 #### COMO CARGAR LOS ARCHIVOS DE TU PROYECTO
 * 1.REGISTRARSE en (http://www.github.com)
 * 2.Cada alumno arma su pagina de proyecto
-* 3.Con la direccion de la pagina armar un codigo Qr de Enlace 
+* 3.Con la direccion de la pagina armar un codigo Qr de Enlace <img width="408" height="406" alt="image" src="https://github.com/user-attachments/assets/b5070e5d-ccd0-49af-acdf-e5e79f5bc138" />
+ 
 * 4.Carga en la pagina PPMecatronicaII la imagen Qr del enlace en la carpeta BIBLIOTECA2025 dentro de la carpeta que corresponde       a su Proyecto.
 
 ### TUTORIALES MOTORES
