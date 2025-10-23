@@ -2,12 +2,12 @@
 ## Tecnicatura Superior en Mecatrónica con Orientación en Autornatización y Mantenimiento Industrial 
 ### PRACTICAS PROFESIONALIZANTES VI MECATRONICA II  
 ### PROFESOR D.I. JORGE MALNIS
-#### ESTO ES UNA MUESTRA DE COMO CARGAR LOS ARCHIVOS DE TU PROYECTO
-* https://www.youtube.com/watch?v=OlEAK64dsEI
+#### COMO CARGAR LOS ARCHIVOS DE TU PROYECTO
+* 1.REGISTRARSE en github.com
+* 2. Cada alumno arma su pagina de proyecto
+* 3. Con la direccion de la pagina armar un codigo Qr de Enlace 
+* 4. Carga en la pagina PPMecatronicaII la imagen Qr del enlace en la carpeta BIBLIOTECA2025 dentro de la carpeta que corresponde       a su Proyecto.
 
-* TAREA
-REGISTRARSE en *[github.com] / cada alumno arma su pagina y utiliza la direccion para armar un codigo Qr de Enlace 
-* COLOCAR IMAGEN QR de enlace en la carpeta BIBLIOTECA2025 dentro de la carpeta que corresponde a su Proyecto.
 ### TUTORIALES MOTORES
 #### 1. MOTORE PASO A PASO IDENTIFICAR BOBINAS Y CABLES
 * [Video Explicativo] (https://www.youtube.com/watch?v=bx5XrROhr-E&t=50s)
