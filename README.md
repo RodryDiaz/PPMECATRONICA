@@ -5,13 +5,13 @@
 #### ESTO ES UNA MUESTRA DE COMO CARGAR LOS ARCHIVOS DE TU PROYECTO
 * https://www.youtube.com/watch?v=OlEAK64dsEI
 
-TAREA
-REGISTRARSE EN github.com /ARMAR UN QR DE ENLACE
-Y COLOCAR SU IMAGEN QR EN LA BIBLIOTECA EN LA CARPETA QUE CORRESPONDE A SU PROYECTO
+* TAREA
+REGISTRARSE en *[github.com] / cada alumno arma su pagina y utiliza la direccion para armar un codigo Qr de Enlace 
+* COLOCAR IMAGEN QR de enlace en la carpeta BIBLIOTECA2025 dentro de la carpeta que corresponde a su Proyecto.
 ### TUTORIALES MOTORES
 #### 1. MOTORE PASO A PASO IDENTIFICAR BOBINAS Y CABLES
 * [Video Explicativo] (https://www.youtube.com/watch?v=bx5XrROhr-E&t=50s)
 #### 2. MOTORE PASO A PASO SHELL ARDUINO CALIBRACION Y USO DE DRIVE
 * [Video Explicativo] (https://www.youtube.com/watch?v=zIiZ_gSi77Y)
-* [Video Explicativo] (https://www.youtube.com/watch?v=zIiZ_gSi77Y)
+
 
