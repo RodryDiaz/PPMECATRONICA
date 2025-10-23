@@ -10,9 +10,9 @@
 * 4.En la pagina PPMecatronicaII en la carpeta BIBLIOTECA2025 dentro de la carpeta que corresponde a tu Proyecto CARGA LA IMAGEN DEL CODIGO QR generado.
 
 ### TUTORIALES MOTORES
-#### 1. MOTORE PASO A PASO IDENTIFICAR BOBINAS Y CABLES
+#### 1. MOTOR PASO A PASO IDENTIFICAR BOBINAS Y CABLES
 * [Video Explicativo] (https://www.youtube.com/watch?v=bx5XrROhr-E&t=50s)
-#### 2. MOTORE PASO A PASO SHELL ARDUINO CALIBRACION Y USO DE DRIVE
+#### 2. MOTOR PASO A PASO SHELL ARDUINO CALIBRACION Y USO DE DRIVE
 * [Video Explicativo] (https://www.youtube.com/watch?v=zIiZ_gSi77Y)
 
 
